@@ -1,5 +1,4 @@
-# A Tour of Computer Systems testMaggieLee
-
+# A Tour of Computer Systems 
 > **Quote**
 > Computer science is no more about computers than astronomy is about telescopes.
 >
